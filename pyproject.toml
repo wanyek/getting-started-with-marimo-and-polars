@@ -1,0 +1,10 @@
+[project]
+name = "getting-started-with-marimo-and-polars"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "marimo[recommended]>=0.16.2",
+    "pyhere>=1.0.3",
+]
