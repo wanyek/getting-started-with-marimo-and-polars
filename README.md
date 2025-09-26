@@ -1,6 +1,6 @@
 # Getting Started with marimo and Polars
 
-This repository contains the materials for the hands-on workshop on using the Polars data manipulation library within a marimo notebook.
+This repository contains the materials for the hands-on workshop on using Polars within a marimo notebook.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ You can either clone the repository using git or download it as a ZIP file.
 
 **Option A: Clone the repository (recommended)**
 ```bash
-git clone https://github.com/wanyek/getting-started-with-marimo-and-polars
+git clone https://github.com/wanyek/getting-started-with-marimo-and-polars.git
 cd getting-started-with-marimo-and-polars
 ```
 
