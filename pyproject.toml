@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "marimo[recommended]>=0.16.2",
     "pyhere>=1.0.3",
+    "ty>=0.0.1a21",
 ]
